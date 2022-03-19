@@ -1,0 +1,121 @@
+|Resource|Dimension|mean|median|usage_type|intensivity|decision|
+|SZY1417|CPU|51.645|53.0|stable|moderate|as at is|
+|SZY1417|RAM|47.605|45.5|stable|moderate|as at is|
+|SZY1417|NetFlow|48.025|48.0|stable|moderate|as at is|
+|7-6317O|CPU|47.13|47.0|stable|moderate|as at is|
+|7-6317O|RAM|46.16|43.0|stable|moderate|as at is|
+|7-6317O|NetFlow|52.56|55.5|stable|moderate|as at is|
+|6690|CPU|52.505|52.5|stable|moderate|as at is|
+|6690|RAM|49.215|47.0|stable|moderate|as at is|
+|6690|NetFlow|53.715|58.5|stable|moderate|as at is|
+|OIX-3915|CPU|50.43|51.0|stable|moderate|as at is|
+|OIX-3915|RAM|51.42|51.0|stable|moderate|as at is|
+|OIX-3915|NetFlow|52.57|53.0|stable|moderate|as at is|
+|0080|CPU|49.69|51.5|stable|moderate|as at is|
+|0080|RAM|48.735|51.5|stable|moderate|as at is|
+|0080|NetFlow|50.175|52.0|stable|moderate|as at is|
+|0VG N83|CPU|48.635|46.0|stable|moderate|as at is|
+|0VG N83|RAM|52.785|56.5|stable|moderate|as at is|
+|0VG N83|NetFlow|47.88|44.5|stable|moderate|as at is|
+|7-8353O|CPU|50.93|48.5|stable|moderate|as at is|
+|7-8353O|RAM|44.52|40.0|stable|moderate|as at is|
+|7-8353O|NetFlow|50.435|53.5|stable|moderate|as at is|
+|740H6|CPU|50.105|49.5|stable|moderate|as at is|
+|740H6|RAM|51.08|49.5|stable|moderate|as at is|
+|740H6|NetFlow|49.04|45.5|stable|moderate|as at is|
+|UDF-415|CPU|50.865|52.5|stable|moderate|as at is|
+|UDF-415|RAM|46.895|46.0|stable|moderate|as at is|
+|UDF-415|NetFlow|53.67|55.0|stable|moderate|as at is|
+|6WQ 834|CPU|49.075|48.0|stable|moderate|as at is|
+|6WQ 834|RAM|47.75|50.0|stable|moderate|as at is|
+|6WQ 834|NetFlow|49.25|49.0|stable|moderate|as at is|
+|SBP 366|CPU|49.11|49.0|stable|moderate|as at is|
+|SBP 366|RAM|48.085|48.0|stable|moderate|as at is|
+|SBP 366|NetFlow|49.815|51.0|stable|moderate|as at is|
+|8FL51|CPU|48.86|49.0|stable|moderate|as at is|
+|8FL51|RAM|47.805|49.0|stable|moderate|as at is|
+|8FL51|NetFlow|49.75|50.0|stable|moderate|as at is|
+|81-V286|CPU|50.965|51.0|stable|moderate|as at is|
+|81-V286|RAM|47.935|47.0|stable|moderate|as at is|
+|81-V286|NetFlow|47.815|48.5|stable|moderate|as at is|
+|704 PXA|CPU|48.56|48.5|stable|moderate|as at is|
+|704 PXA|RAM|50.145|50.0|stable|moderate|as at is|
+|704 PXA|NetFlow|48.26|48.0|stable|moderate|as at is|
+|TSS6228|CPU|49.04|49.0|stable|moderate|as at is|
+|TSS6228|RAM|48.405|47.0|stable|moderate|as at is|
+|TSS6228|NetFlow|49.015|49.0|stable|moderate|as at is|
+|3A 6Y8GRR|CPU|49.385|48.0|stable|moderate|as at is|
+|3A 6Y8GRR|RAM|47.45|47.0|stable|moderate|as at is|
+|3A 6Y8GRR|NetFlow|49.29|49.0|stable|moderate|as at is|
+|7SL 489|CPU|49.815|50.0|stable|moderate|as at is|
+|7SL 489|RAM|49.55|50.0|stable|moderate|as at is|
+|7SL 489|NetFlow|49.365|49.0|stable|moderate|as at is|
+|AMZ 828|CPU|50.505|51.5|stable|moderate|as at is|
+|AMZ 828|RAM|50.4|51.0|stable|moderate|as at is|
+|AMZ 828|NetFlow|49.47|49.0|stable|moderate|as at is|
+|GNB-759|CPU|49.66|50.0|stable|moderate|as at is|
+|GNB-759|RAM|47.755|48.0|stable|moderate|as at is|
+|GNB-759|NetFlow|49.63|48.0|stable|moderate|as at is|
+|GQN-7565|CPU|49.43|50.0|stable|moderate|as at is|
+|GQN-7565|RAM|48.915|48.0|stable|moderate|as at is|
+|GQN-7565|NetFlow|48.525|48.0|stable|moderate|as at is|
+|32A 892|CPU|26.875|21.0|surges|low|cancel|
+|32A 892|RAM|25.82|23.0|stable|low|cancel|
+|32A 892|NetFlow|25.025|19.5|surges|low|cancel|
+|840110|CPU|23.035|19.0|stable|low|cancel|
+|840110|RAM|24.75|19.0|surges|low|cancel|
+|840110|NetFlow|24.055|20.0|stable|low|cancel|
+|43-AY41|CPU|22.955|18.0|surges|low|cancel|
+|43-AY41|RAM|23.64|19.5|stable|low|cancel|
+|43-AY41|NetFlow|25.805|21.0|stable|low|cancel|
+|F41-22L|CPU|23.96|19.5|stable|low|cancel|
+|F41-22L|RAM|24.545|20.5|stable|low|cancel|
+|F41-22L|NetFlow|24.465|20.0|stable|low|cancel|
+|QF 44757|CPU|24.14|20.5|stable|low|cancel|
+|QF 44757|RAM|23.935|17.0|surges|low|cancel|
+|QF 44757|NetFlow|23.455|18.0|surges|low|cancel|
+|D56-AJM|CPU|25.09|22.0|stable|low|cancel|
+|D56-AJM|RAM|24.745|21.0|stable|low|cancel|
+|D56-AJM|NetFlow|25.35|22.0|stable|low|cancel|
+|MID 483|CPU|24.76|19.0|surges|low|cancel|
+|MID 483|RAM|24.195|19.0|surges|low|cancel|
+|MID 483|NetFlow|26.3|21.0|surges|low|cancel|
+|30N A62|CPU|25.88|23.0|stable|low|cancel|
+|30N A62|RAM|24.97|21.0|stable|low|cancel|
+|30N A62|NetFlow|25.23|22.0|stable|low|cancel|
+|XFO8683|CPU|26.23|22.5|stable|low|cancel|
+|XFO8683|RAM|25.29|21.0|stable|low|cancel|
+|XFO8683|NetFlow|25.705|22.0|stable|low|cancel|
+|ZWQ-7380|CPU|25.04|18.0|surges|low|cancel|
+|ZWQ-7380|RAM|23.385|19.0|stable|low|cancel|
+|ZWQ-7380|NetFlow|24.06|19.0|surges|low|cancel|
+|NBX-4230|CPU|44.75|21.0|surges|low|cancel|
+|NBX-4230|RAM|45.405|23.0|surges|low|cancel|
+|NBX-4230|NetFlow|54.24|68.5|stable|high|as at is|
+|426 CCJ|CPU|47|34.5|surges|moderate|as at is|
+|426 CCJ|RAM|53.15|72.5|low|high|as at is|
+|426 CCJ|NetFlow|46.985|34.5|surges|moderate|as at is|
+|420-809|CPU|45.59|20.5|surges|low|cancel|
+|420-809|RAM|52.07|55.0|stable|moderate|as at is|
+|420-809|NetFlow|48.3|47.5|stable|moderate|as at is|
+|2S O9806|CPU|51.705|70.0|low|high|as at is|
+|2S O9806|RAM|51.255|66.5|stable|high|as at is|
+|2S O9806|NetFlow|51.34|63.0|stable|high|as at is|
+|L 139693|CPU|48.235|42.5|stable|moderate|as at is|
+|L 139693|RAM|53.785|75.0|low|high|as at is|
+|L 139693|NetFlow|49.425|55.5|stable|moderate|as at is|
+|DVM-4870|CPU|49.57|55.0|stable|moderate|as at is|
+|DVM-4870|RAM|47.195|31.0|surges|moderate|as at is|
+|DVM-4870|NetFlow|48.455|38.5|surges|moderate|as at is|
+|4023 TM|CPU|54.57|76.5|low|high|as at is|
+|4023 TM|RAM|50.12|49.0|stable|moderate|as at is|
+|4023 TM|NetFlow|46.825|39.5|stable|moderate|as at is|
+|2563 ZS|CPU|58.01|88.5|low|high|as at is|
+|2563 ZS|RAM|49.19|44.5|stable|moderate|as at is|
+|2563 ZS|NetFlow|59.125|90.5|low|transcendental|power_up|
+|168V|CPU|48.475|33.5|surges|moderate|as at is|
+|168V|RAM|50.44|55.5|stable|moderate|as at is|
+|168V|NetFlow|48.125|47.0|stable|moderate|as at is|
+|7VR 831|CPU|48.91|54.0|stable|moderate|as at is|
+|7VR 831|RAM|42.515|15.0|surges|low|cancel|
+|7VR 831|NetFlow|45.56|30.5|surges|moderate|as at is|
